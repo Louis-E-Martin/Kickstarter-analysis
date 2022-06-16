@@ -5,4 +5,4 @@
 
 ## Analysis and Challenges
 For my analysis of the data I made two graphs that should give useful insight into the level of funding that should be persued along with when the best times to seek funding are(see figure one and two below respectively.
-![figure1](
+![figure1](https://github.com/Louis-E-Martin/Kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
