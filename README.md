@@ -11,3 +11,4 @@ For my analysis of the data I made two graphs that should give useful insight in
 ![figure2](https://github.com/Louis-E-Martin/Kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ## Results
+There where some intresting results from this data. First from the Theater Outcomes vs Launch(Figure1) we can see a few intresting Things. First that May is the best time to try and fund your project. The month of May had the higest number of theater crowdfunded projects be succsessful. The other big conclution we can draw is that decmber is a very bad time to try to crowdfund your project. 
